@@ -1,0 +1,7 @@
+resource_id,name,category,seats
+r01,Maple Study Room,study,12
+r02,Willow Reading Corner,study,8
+r03,Cedar Computer Desk,computing,6
+r04,Birch Help Table,support,4
+r05,Elm Quiet Room,study,10
+r06,Pine Print Station,computing,2
